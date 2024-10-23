@@ -4,7 +4,8 @@ def pali1(x):
     y = []
     for i in range (n-1, -1 -1):
         y.append (x[i])
-        return y == x 
+    return y == x 
+
 
 '''''''''
 def pali2(x):
